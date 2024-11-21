@@ -63,8 +63,15 @@ Final number: 123456
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Acknowledgments
 
-For questions or suggestions, please open an issue in the repository or contact the maintainer directly.
+This project was developed as part of an academic assignment to practice advanced C and OS programming concepts.
+
+## Author
+
+**Halel Itzhaki**
+
+For any questions or suggestions, please feel free to contact me.
+
